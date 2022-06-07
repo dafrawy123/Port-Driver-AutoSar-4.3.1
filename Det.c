@@ -7,7 +7,7 @@
  * Description:  Det stores the development errors reported by other modules.
  *               This source file is a STUB for the Det Module
  *
- * Author: Mohamed Tarek
+ * Author: Mahmoud Dafrawy
  ******************************************************************************/
 
 #include "Det.h"
